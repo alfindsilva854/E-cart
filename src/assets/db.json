@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "productName": "Shirt",
+      "categoryId": 2,
+      "description": "mens casual Shirt",
+      "price": 799,
+      "image": "https://i.postimg.cc/V6PNsSjv/portrait-handsome-smiling-stylish-young-man-model-wearing-jeans-clothes-sunglasses-fashion-man.jpg",
+      "rating": 4.6,
+      "review": 23,
+      "warranty": 1,
+      "is_available": true,
+      "vendor_name": "Java Junction"
+    },
+    {
+      "id": 3,
+      "productName": "Hoddie",
+      "categoryId": 2,
+      "description": "A hoodie is a heavy uppergarment with a hood. The garment includes large front pockets, a hood, and usuallycontains a drawstring to adjust the size of the hood. Sometimes, the garment isalso tailored with a zip.",
+      "price": "1999",
+      "image": "https://i.postimg.cc/XYH3srzP/wishiny625165537311-main-black-89.jpg",
+      "rating": 4.6,
+      "review": 24,
+      "warranty": 1,
+      "is_available": true,
+      "vendor_name": "Glorious Goods"
+    },
+    {
+      "id": 4,
+      "productName": "Hotfits Stylish Men Multicolored Cotton Shorts",
+      "categoryId": 2,
+      "description": "Shorts, like pants, come in a huge variety of lengths, styles, and fits, but unlike the latter—where most men can judge the appropriate length based on their height—shorts are a bit more convoluted",
+      "price": 700,
+      "image": "https://i.postimg.cc/ZRgC2fs1/811-Jqsi8r-VL-UX679.jpg",
+      "rating": 4.6,
+      "review": 23,
+      "warranty": 1,
+      "is_available": true,
+      "vendor_name": "Glorious Goods"
+    },
+    {
+      "id": 5,
+      "productName": "ADIDAS X SPEEDFLOW.1 MESSI 'EL RETORNO'",
+      "categoryId": 3,
+      "description": "Adidas just launched the all-new X Speedflow with a Lionel Messi special edition that celebrates the 15th anniversary of the partnership between the six-time Ballon d'Or winner and the three-stripe brand. Pictures via Pro-Direct and Futbol Emotion.",
+      "price": 16999,
+      "image": "https://i.postimg.cc/C1MtB0YV/adidas-messi-el-retorno-limited-edition-boots-1.jpg",
+      "rating": 9.6,
+      "review": 90,
+      "warranty": 3,
+      "is_available": true,
+      "vendor_name": "Adidas"
+    },
+    {
+      "id": 6,
+      "productName": "Lionel Messi Inter Miami Away Jersey",
+      "categoryId": 3,
+      "description": "Sting,like a bee, becoz you are wearing the jersey of Messi!!!",
+      "price": 699,
+      "image": "https://i.postimg.cc/JhdXC3TC/inter-miami-lionel-messi-number-10-printed-home-jersey-product.png",
+      "rating": 6.8,
+      "review": 23,
+      "warranty": 1,
+      "is_available": true,
+      "vendor_name": "american league sponser"
+    },
+    {
+      "id": 7,
+      "productName": "FIFA PRO F900 GREEN",
+      "categoryId": 3,
+      "description": "jeans",
+      "price": 1699,
+      "image": "https://i.postimg.cc/cHRdB0tk/p2193900.jpg",
+      "rating": 6.6,
+      "review": 73,
+      "warranty": 1,
+      "is_available": true,
+      "vendor_name": "Kipsta"
+    },
+    {
+      "id": 8,
+      "productName": "Nike Vapor Jet 6.0 Adult Football Gloves",
+      "categoryId": 3,
+      "description": "The worlds best gloves ",
+      "price": 3699,
+      "image": "https://i.postimg.cc/bNCSt9hD/nike-vapor-jet-60-adult-football-receiver-gloves-main-Product-Image-Full-36108.jpg",
+      "rating": 8.6,
+      "review": 93,
+      "warranty": 1,
+      "is_available": true,
+      "vendor_name": "Nike"
+    },
+    {
+      "id": "15",
+      "productName": "Elgato",
+      "categoryId": "1",
+      "description": "for streaming purpose",
+      "price": 499,
+      "image": "https://i.postimg.cc/02BhrjVG/71a-Y-mf-Ixi-L.jpg",
+      "rating": "10",
+      "review": "10",
+      "warranty": "5",
+      "is_available": "true",
+      "vendor_name": "Cruzito enterprises"
+    },
+    {
+      "id": "10",
+      "productName": "asus laptop",
+      "categoryId": "1",
+      "description": "gaming laptop ",
+      "price": 70000,
+      "image": "https://i.postimg.cc/mgMRPjkK/91-P7u-BC9-DML-AC-UF1000-1000-QL80.jpg",
+      "rating": "8.8",
+      "review": "24",
+      "warranty": "1",
+      "is_available": "true",
+      "vendor_name": "asus"
+    }
+  ]
+}

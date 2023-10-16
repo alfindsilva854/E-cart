@@ -1,0 +1,21 @@
+e-commerce
+----------
+
+-lazy loading
+-lazy loaded module-all components inside this module are lazy loaded components
+
+-admin
+-home   -allproducts
+        -single product view
+        -edit product
+        -delete product
+
+
+install json server
+
+    npm i --save json-server
+
+    db.json=database
+    server-json-server
+
+    run-npx json-server --watch db.json --port 3000
